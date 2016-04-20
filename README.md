@@ -188,3 +188,7 @@ Score | Expectations
 **2** | _Exceeds expectations, you wonderful creature, you!_
 
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+
+
+
+making changes
