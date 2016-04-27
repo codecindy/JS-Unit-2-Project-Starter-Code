@@ -183,6 +183,7 @@ nav ul ul li {
 /* Main Section */
 #main {
   margin-top: 65px;
+  display: block;
 }
 
 /* Individual Article Styling */
